@@ -1,0 +1,13 @@
+função média (a,b,c){
+    Escreva ("Coloque três números!
+    a =
+    b =
+    c = ")
+    se (a > b e c)
+        Escreva ("O número", a,"é o maior")
+    senão (b > a e c)
+        Escreva ("O número", b,"é o maior")
+    senão (c > a e b)
+        Escrever ("O número", c,"é o maior")
+}
+Fim da função

@@ -1,0 +1,3 @@
+função área do triangulo (b,h){
+    escrever resultado = ((b*h)/2)
+}

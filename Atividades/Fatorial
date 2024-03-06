@@ -1,0 +1,4 @@
+Funçao Fatorial (a){
+    Escrevr Resultado = (a*(a-1)*(a-2))
+}
+fim da função

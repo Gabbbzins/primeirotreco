@@ -1,0 +1,4 @@
+função inverter (a){
+    escrever resultado = (a - (a*2))
+}
+fim da função

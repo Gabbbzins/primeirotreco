@@ -1,0 +1,4 @@
+função maior (a,b,c)
+    se (a > b,c) = d {
+        escrever ("O", a "é o maior dos três.")
+    }

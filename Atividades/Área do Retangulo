@@ -1,0 +1,4 @@
+função área do retangulo (b,h){
+    escrever resultado = (b*h)
+}
+fim da função

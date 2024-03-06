@@ -1,0 +1,8 @@
+Array:
+Comida=[hamburguer,pizza,rabanada,risoto]
+console.log = (comida[2])
+
+
+Objeto:
+Carro= {cor:azul,ano:2020,marca:audi}
+console.log = {carro.x}

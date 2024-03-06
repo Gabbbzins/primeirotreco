@@ -1,0 +1,4 @@
+função área do circulo (raio){
+    escrever resultado = (3,14(r*r))
+}
+fim da função

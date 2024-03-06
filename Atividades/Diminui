@@ -1,0 +1,3 @@
+função diminui (a,b){
+    escrever resultado = (a - b)
+}

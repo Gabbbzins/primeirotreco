@@ -1,0 +1,3 @@
+função multiplica (a,b){
+    escrever resultado = (a*b)
+}
